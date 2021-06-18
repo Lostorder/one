@@ -47,7 +47,7 @@ public class Texttwo {
 
     }
 
-    @Test
+    //@Test
     public void login() throws InterruptedException {
 
         driver.get("http://192.168.159.134:8080/DagShop06/");
@@ -82,7 +82,7 @@ public class Texttwo {
 
     }
 
-    @Test
+    //@Test
     public void login01() throws InterruptedException {
 
         driver.get("http://192.168.159.134:8080/DagShop06/");
@@ -110,7 +110,7 @@ public class Texttwo {
 
     }
 
-    @Test
+   // @Test
     public void login02() throws InterruptedException {
 
         driver.get("http://192.168.159.134:8080/DagShop06/");

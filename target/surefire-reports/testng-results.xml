@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="13969" started-at="2021-06-17T02:17:08Z" finished-at="2021-06-17T02:17:22Z">
+    <groups>
+    </groups>
+    <test name="DogShop" duration-ms="13969" started-at="2021-06-17T02:17:08Z" finished-at="2021-06-17T02:17:22Z">
+      <class name="com.dogshop.Texttwo">
+        <test-method status="PASS" signature="open()[pri:0, instance:com.dogshop.Texttwo@56f4468b]" name="open" is-config="true" duration-ms="4272" started-at="2021-06-17T10:17:08Z" finished-at="2021-06-17T10:17:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="select()[pri:0, instance:com.dogshop.Texttwo@56f4468b]" name="select" duration-ms="5633" started-at="2021-06-17T10:17:12Z" finished-at="2021-06-17T10:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.dogshop.Texttwo@56f4468b]" name="close" is-config="true" duration-ms="4012" started-at="2021-06-17T10:17:18Z" finished-at="2021-06-17T10:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.dogshop.Texttwo -->
+    </test> <!-- DogShop -->
+  </suite> <!-- Default Suite -->
+</testng-results>

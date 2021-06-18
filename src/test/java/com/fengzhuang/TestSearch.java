@@ -19,7 +19,7 @@ public class TestSearch {
         };
     }
 
-    @Test(dataProvider = "test02")
+    //@Test(dataProvider = "test02")
     public void testData(String url,String brower) throws InterruptedException, MalformedURLException {
 
         DesiredCapabilities dc;
