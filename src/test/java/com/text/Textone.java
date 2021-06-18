@@ -1,4 +1,4 @@
-package com.dogshop;
+package com.text;
 
 
 import org.testng.Assert;

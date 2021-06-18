@@ -3,9 +3,9 @@
 <suite name="Default Suite">
   <test name="DogShop">
     <classes>
-      <class name="com.dogshop.Texttwo">
+      <class name="com.dogshop.zhuce">
         
-      </class> <!-- com.dogshop.Texttwo -->
+      </class> <!-- com.dogshop.zhuce -->
 	  
 
 	  
